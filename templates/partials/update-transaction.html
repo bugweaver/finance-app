@@ -1,0 +1,18 @@
+{% load widget_tweaks %}
+
+<h1 class="prose prose-2xl text-white">
+    Update Transaction
+</h1>
+
+<form hx-post="{% url 'update-transaction' transaction.pk %}">
+
+    {% include 'partials/transaction-form.html' %}
+
+    <div class="flex">
+        <button class="btn btn-success mr-2">Update</button>
+        <form method="dialog">
+            <button class="btn btn-error">Cancel</button>
+        </form>
+    </div>
+
+</form>

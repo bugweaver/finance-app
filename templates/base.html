@@ -1,0 +1,36 @@
+{% load static %}
+{% load static tailwind_tags %}
+
+<!DOCTYPE html>
+<html lang="en" data-theme="sunset">
+<head>
+    <meta charset="UTF-8">
+    <title>
+        {% block title %}
+        {% endblock %}
+    </title>
+    <style>
+        ::-webkit-calendar-picker-indicator {
+            filter: invert(1);
+        }
+    </style>
+    <script src="{% static 'js/htmx.min.js' %}" defer></script>
+    <script src="{% static 'js/plotly-2.35.2.min.js' %}" charset="utf-8"></script>
+    {% tailwind_css %}
+</head>
+<body hx-headers='{"X-CSRFToken": "{{ csrf_token }}"}'>
+
+<header>
+    {% include 'partials/navbar.html' %}
+</header>
+
+<main>
+    <div class="max-w-screen-lg mx-auto p-4 pt-16">
+        {% block content %}
+        {% endblock %}
+    </div>
+</main>
+
+
+</body>
+</html>

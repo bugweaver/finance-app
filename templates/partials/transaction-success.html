@@ -1,0 +1,20 @@
+<div role="alert" class="alert alert-success">
+    <span>{{ message }}</span>
+</div>
+
+<div class="mt-4">
+    <button class="btn btn-info"
+            hx-get="{% url 'create-transaction' %}"
+            hx-target="#form-modal"
+            hx-trigger="click"
+            onclick="crud_modal.showModal()">
+        Add Transaction
+    </button>
+
+    <button class="btn btn-success"
+            hx-get="{% url 'transactions-list' %}"
+            hx-push-url="true"
+            hx-target="#transaction-block">
+        View transactions
+    </button>
+</div>

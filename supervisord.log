@@ -1,0 +1,1579 @@
+2024-12-26 12:47:27,428 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-12-26 12:47:27,430 INFO supervisord started with pid 1
+2024-12-26 12:47:28,433 INFO spawned: 'tailwind' with pid 7
+2024-12-26 12:47:28,434 INFO spawned: 'web' with pid 8
+2024-12-26 12:47:29,340 WARN exited: tailwind (exit status 1; not expected)
+2024-12-26 12:47:29,475 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-26 12:47:30,564 INFO spawned: 'tailwind' with pid 11
+2024-12-26 12:47:30,732 WARN exited: tailwind (exit status 1; not expected)
+2024-12-26 12:47:32,737 INFO spawned: 'tailwind' with pid 12
+2024-12-26 12:47:33,910 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-26 12:47:33,910 WARN exited: tailwind (exit status 1; not expected)
+2024-12-26 12:47:34,913 INFO spawned: 'tailwind' with pid 13
+2024-12-26 12:47:35,080 WARN exited: tailwind (exit status 1; not expected)
+2024-12-26 12:47:36,083 INFO spawned: 'tailwind' with pid 14
+2024-12-26 12:47:36,283 WARN exited: tailwind (exit status 1; not expected)
+2024-12-26 12:47:38,288 INFO spawned: 'tailwind' with pid 15
+2024-12-26 12:47:38,487 WARN exited: tailwind (exit status 1; not expected)
+2024-12-26 12:47:41,493 INFO spawned: 'tailwind' with pid 22
+2024-12-26 12:47:41,708 WARN exited: tailwind (exit status 1; not expected)
+2024-12-26 12:47:42,710 INFO gave up: tailwind entered FATAL state, too many start retries too quickly
+2024-12-26 12:55:49,631 WARN received SIGTERM indicating exit request
+2024-12-26 12:55:49,632 INFO waiting for web to die
+2024-12-26 12:55:49,664 INFO stopped: web (exit status 0)
+2024-12-26 13:17:15,524 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-12-26 13:17:15,526 INFO supervisord started with pid 1
+2024-12-26 13:17:16,529 INFO spawned: 'tailwind' with pid 7
+2024-12-26 13:17:16,532 INFO spawned: 'web' with pid 8
+2024-12-26 13:17:17,538 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-26 13:17:17,538 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-26 13:17:17,542 WARN exited: tailwind (exit status 1; not expected)
+2024-12-26 13:17:17,673 INFO spawned: 'tailwind' with pid 12
+2024-12-26 13:17:17,867 WARN exited: tailwind (exit status 1; not expected)
+2024-12-26 13:17:18,869 INFO spawned: 'tailwind' with pid 14
+2024-12-26 13:17:19,041 WARN exited: tailwind (exit status 1; not expected)
+2024-12-26 13:17:21,045 INFO spawned: 'tailwind' with pid 16
+2024-12-26 13:17:21,215 WARN exited: tailwind (exit status 1; not expected)
+2024-12-26 13:17:24,221 INFO spawned: 'tailwind' with pid 25
+2024-12-26 13:17:24,420 WARN exited: tailwind (exit status 1; not expected)
+2024-12-26 13:17:25,423 INFO gave up: tailwind entered FATAL state, too many start retries too quickly
+2024-12-26 13:35:10,763 WARN received SIGTERM indicating exit request
+2024-12-26 13:35:10,764 INFO waiting for web to die
+2024-12-26 13:35:10,799 INFO stopped: web (exit status 0)
+2024-12-26 13:35:13,981 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-12-26 13:35:13,983 INFO supervisord started with pid 1
+2024-12-26 13:35:14,985 INFO spawned: 'tailwind' with pid 7
+2024-12-26 13:35:14,987 INFO spawned: 'web' with pid 8
+2024-12-26 13:35:15,988 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-26 13:35:15,988 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-26 13:55:18,037 WARN received SIGTERM indicating exit request
+2024-12-26 13:55:18,038 INFO waiting for tailwind, web to die
+2024-12-26 13:55:18,077 INFO stopped: web (exit status 0)
+2024-12-26 13:55:19,079 WARN stopped: tailwind (terminated by SIGTERM)
+2024-12-26 14:00:22,643 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-12-26 14:00:22,645 INFO supervisord started with pid 1
+2024-12-26 14:00:23,647 INFO spawned: 'tailwind' with pid 6
+2024-12-26 14:00:23,650 INFO spawned: 'web' with pid 7
+2024-12-26 14:00:24,653 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-26 14:00:24,653 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-26 14:08:27,214 WARN received SIGTERM indicating exit request
+2024-12-26 14:08:27,214 INFO waiting for tailwind, web to die
+2024-12-26 14:08:27,252 INFO stopped: web (exit status 0)
+2024-12-26 14:08:28,255 WARN stopped: tailwind (terminated by SIGTERM)
+2024-12-27 11:46:44,517 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-12-27 11:46:44,520 INFO supervisord started with pid 1
+2024-12-27 11:46:45,529 INFO spawned: 'tailwind' with pid 7
+2024-12-27 11:46:45,531 INFO spawned: 'web' with pid 8
+2024-12-27 11:46:46,746 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 11:46:46,746 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 12:15:02,343 WARN received SIGTERM indicating exit request
+2024-12-27 12:15:02,344 INFO waiting for tailwind, web to die
+2024-12-27 12:15:02,388 INFO stopped: web (exit status 0)
+2024-12-27 12:15:03,390 WARN stopped: tailwind (terminated by SIGTERM)
+2024-12-27 12:23:56,885 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-12-27 12:23:56,887 INFO supervisord started with pid 1
+2024-12-27 12:23:57,889 INFO spawned: 'tailwind' with pid 7
+2024-12-27 12:23:57,892 INFO spawned: 'web' with pid 8
+2024-12-27 12:23:58,894 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 12:23:58,895 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 12:56:12,202 WARN received SIGTERM indicating exit request
+2024-12-27 12:56:12,204 INFO waiting for tailwind, web to die
+2024-12-27 12:56:12,240 INFO stopped: web (exit status 0)
+2024-12-27 12:56:13,244 WARN stopped: tailwind (terminated by SIGTERM)
+2024-12-27 12:57:42,439 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-12-27 12:57:42,442 INFO supervisord started with pid 1
+2024-12-27 12:57:43,444 INFO spawned: 'tailwind' with pid 7
+2024-12-27 12:57:43,446 INFO spawned: 'web' with pid 8
+2024-12-27 12:57:44,450 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 12:57:44,450 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:02:41,630 WARN received SIGTERM indicating exit request
+2024-12-27 13:02:41,631 INFO waiting for tailwind, web to die
+2024-12-27 13:02:41,670 INFO stopped: web (exit status 0)
+2024-12-27 13:02:42,672 WARN stopped: tailwind (terminated by SIGTERM)
+2024-12-27 13:12:50,875 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-12-27 13:12:50,877 INFO supervisord started with pid 1
+2024-12-27 13:12:51,880 INFO spawned: 'tailwind' with pid 7
+2024-12-27 13:12:51,881 INFO spawned: 'web' with pid 8
+2024-12-27 13:12:52,883 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:12:52,883 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:29:29,763 WARN received SIGTERM indicating exit request
+2024-12-27 13:29:29,763 INFO waiting for tailwind, web to die
+2024-12-27 13:29:29,806 INFO stopped: web (exit status 0)
+2024-12-27 13:29:30,808 WARN stopped: tailwind (terminated by SIGTERM)
+2024-12-27 13:29:35,115 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-12-27 13:29:35,116 INFO supervisord started with pid 1
+2024-12-27 13:29:36,119 INFO spawned: 'tailwind' with pid 7
+2024-12-27 13:29:36,120 INFO spawned: 'web' with pid 8
+2024-12-27 13:29:37,122 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:29:37,122 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:29:37,242 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:29:37,243 INFO spawned: 'tailwind' with pid 11
+2024-12-27 13:29:37,472 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:29:38,474 INFO spawned: 'tailwind' with pid 12
+2024-12-27 13:29:38,691 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:29:40,696 INFO spawned: 'tailwind' with pid 13
+2024-12-27 13:29:40,901 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:29:43,908 INFO spawned: 'tailwind' with pid 14
+2024-12-27 13:29:45,157 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:29:45,157 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:29:46,160 INFO spawned: 'tailwind' with pid 15
+2024-12-27 13:29:46,417 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:29:47,420 INFO spawned: 'tailwind' with pid 16
+2024-12-27 13:29:48,659 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:29:48,659 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:29:49,662 INFO spawned: 'tailwind' with pid 17
+2024-12-27 13:29:49,901 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:29:50,904 INFO spawned: 'tailwind' with pid 18
+2024-12-27 13:29:52,150 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:29:52,150 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:29:53,153 INFO spawned: 'tailwind' with pid 19
+2024-12-27 13:29:53,388 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:29:54,391 INFO spawned: 'tailwind' with pid 20
+2024-12-27 13:29:54,634 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:29:56,638 INFO spawned: 'tailwind' with pid 21
+2024-12-27 13:29:57,880 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:29:57,881 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:29:58,883 INFO spawned: 'tailwind' with pid 22
+2024-12-27 13:30:00,121 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:30:00,122 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:30:01,124 INFO spawned: 'tailwind' with pid 23
+2024-12-27 13:30:02,364 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:30:02,365 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:30:03,367 INFO spawned: 'tailwind' with pid 24
+2024-12-27 13:30:03,604 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:30:04,607 INFO spawned: 'tailwind' with pid 25
+2024-12-27 13:30:04,853 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:30:06,858 INFO spawned: 'tailwind' with pid 26
+2024-12-27 13:30:08,102 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:30:08,102 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:30:09,104 INFO spawned: 'tailwind' with pid 27
+2024-12-27 13:30:09,339 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:30:10,341 INFO spawned: 'tailwind' with pid 28
+2024-12-27 13:30:10,576 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:30:12,580 INFO spawned: 'tailwind' with pid 29
+2024-12-27 13:30:12,816 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:30:15,823 INFO spawned: 'tailwind' with pid 30
+2024-12-27 13:30:17,062 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:30:17,063 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:30:18,065 INFO spawned: 'tailwind' with pid 31
+2024-12-27 13:30:19,307 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:30:19,308 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:30:20,310 INFO spawned: 'tailwind' with pid 32
+2024-12-27 13:30:20,548 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:30:21,550 INFO spawned: 'tailwind' with pid 33
+2024-12-27 13:30:22,786 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:30:22,787 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:30:23,789 INFO spawned: 'tailwind' with pid 34
+2024-12-27 13:30:25,027 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:30:25,028 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:30:26,030 INFO spawned: 'tailwind' with pid 35
+2024-12-27 13:30:27,266 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:30:27,266 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:30:28,269 INFO spawned: 'tailwind' with pid 36
+2024-12-27 13:30:29,510 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:30:29,510 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:30:30,513 INFO spawned: 'tailwind' with pid 37
+2024-12-27 13:30:30,750 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:30:31,753 INFO spawned: 'tailwind' with pid 38
+2024-12-27 13:30:32,996 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:30:32,997 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:30:33,999 INFO spawned: 'tailwind' with pid 39
+2024-12-27 13:30:34,235 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:30:35,238 INFO spawned: 'tailwind' with pid 40
+2024-12-27 13:30:35,477 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:30:37,482 INFO spawned: 'tailwind' with pid 41
+2024-12-27 13:30:38,730 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:30:38,730 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:30:39,733 INFO spawned: 'tailwind' with pid 42
+2024-12-27 13:30:40,974 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:30:40,974 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:30:41,977 INFO spawned: 'tailwind' with pid 43
+2024-12-27 13:30:43,220 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:30:43,221 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:30:44,223 INFO spawned: 'tailwind' with pid 44
+2024-12-27 13:30:45,471 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:30:45,471 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:30:46,474 INFO spawned: 'tailwind' with pid 45
+2024-12-27 13:30:46,723 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:30:47,726 INFO spawned: 'tailwind' with pid 46
+2024-12-27 13:30:48,967 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:30:48,967 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:30:49,970 INFO spawned: 'tailwind' with pid 48
+2024-12-27 13:30:51,218 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:30:51,218 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:30:52,221 INFO spawned: 'tailwind' with pid 49
+2024-12-27 13:30:52,475 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:30:53,478 INFO spawned: 'tailwind' with pid 50
+2024-12-27 13:30:54,725 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:30:54,725 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:30:55,727 INFO spawned: 'tailwind' with pid 51
+2024-12-27 13:30:56,982 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:30:56,983 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:30:57,985 INFO spawned: 'tailwind' with pid 52
+2024-12-27 13:30:58,226 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:30:59,229 INFO spawned: 'tailwind' with pid 53
+2024-12-27 13:31:00,470 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:31:00,471 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:31:01,473 INFO spawned: 'tailwind' with pid 54
+2024-12-27 13:31:02,717 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:31:02,718 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:31:03,720 INFO spawned: 'tailwind' with pid 55
+2024-12-27 13:31:04,960 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:31:04,961 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:31:05,963 INFO spawned: 'tailwind' with pid 57
+2024-12-27 13:31:07,205 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:31:07,206 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:31:08,208 INFO spawned: 'tailwind' with pid 58
+2024-12-27 13:31:09,451 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:31:09,452 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:31:10,454 INFO spawned: 'tailwind' with pid 59
+2024-12-27 13:31:10,696 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:31:11,699 INFO spawned: 'tailwind' with pid 60
+2024-12-27 13:31:11,942 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:31:13,947 INFO spawned: 'tailwind' with pid 61
+2024-12-27 13:31:15,193 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:31:15,194 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:31:16,196 INFO spawned: 'tailwind' with pid 62
+2024-12-27 13:31:17,438 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:31:17,439 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:31:18,441 INFO spawned: 'tailwind' with pid 63
+2024-12-27 13:31:19,685 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:31:19,686 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:31:20,688 INFO spawned: 'tailwind' with pid 64
+2024-12-27 13:31:21,934 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:31:21,935 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:31:22,937 INFO spawned: 'tailwind' with pid 65
+2024-12-27 13:31:23,196 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:31:24,198 INFO spawned: 'tailwind' with pid 66
+2024-12-27 13:31:25,436 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:31:25,436 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:31:26,439 INFO spawned: 'tailwind' with pid 67
+2024-12-27 13:31:27,677 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:31:27,677 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:31:28,680 INFO spawned: 'tailwind' with pid 68
+2024-12-27 13:31:29,895 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:31:29,895 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:31:30,898 INFO spawned: 'tailwind' with pid 69
+2024-12-27 13:31:31,107 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:31:32,110 INFO spawned: 'tailwind' with pid 70
+2024-12-27 13:31:32,356 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:31:34,361 INFO spawned: 'tailwind' with pid 71
+2024-12-27 13:31:34,602 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:31:37,609 INFO spawned: 'tailwind' with pid 72
+2024-12-27 13:31:37,860 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:31:38,862 INFO gave up: tailwind entered FATAL state, too many start retries too quickly
+2024-12-27 13:32:27,959 WARN received SIGTERM indicating exit request
+2024-12-27 13:32:27,959 INFO waiting for web to die
+2024-12-27 13:32:27,992 INFO stopped: web (exit status 0)
+2024-12-27 13:32:31,957 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-12-27 13:32:31,958 INFO supervisord started with pid 1
+2024-12-27 13:32:32,961 INFO spawned: 'tailwind' with pid 7
+2024-12-27 13:32:32,962 INFO spawned: 'web' with pid 8
+2024-12-27 13:32:33,963 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:32:33,963 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:32:34,056 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:32:34,057 INFO spawned: 'tailwind' with pid 11
+2024-12-27 13:32:34,263 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:32:35,266 INFO spawned: 'tailwind' with pid 12
+2024-12-27 13:32:35,467 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:32:37,471 INFO spawned: 'tailwind' with pid 13
+2024-12-27 13:32:37,685 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:32:40,692 INFO spawned: 'tailwind' with pid 14
+2024-12-27 13:32:41,939 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:32:41,939 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:32:42,942 INFO spawned: 'tailwind' with pid 15
+2024-12-27 13:32:43,179 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:32:44,182 INFO spawned: 'tailwind' with pid 16
+2024-12-27 13:32:44,419 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:32:46,424 INFO spawned: 'tailwind' with pid 17
+2024-12-27 13:32:47,665 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:32:47,665 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:32:48,668 INFO spawned: 'tailwind' with pid 18
+2024-12-27 13:32:48,905 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:32:49,908 INFO spawned: 'tailwind' with pid 19
+2024-12-27 13:32:51,149 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:32:51,149 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:32:52,152 INFO spawned: 'tailwind' with pid 20
+2024-12-27 13:32:52,397 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:32:53,400 INFO spawned: 'tailwind' with pid 21
+2024-12-27 13:32:53,663 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:32:55,667 INFO spawned: 'tailwind' with pid 22
+2024-12-27 13:32:56,932 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:32:56,932 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:32:57,934 INFO spawned: 'tailwind' with pid 23
+2024-12-27 13:32:59,176 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:32:59,176 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:33:00,178 INFO spawned: 'tailwind' with pid 24
+2024-12-27 13:33:01,419 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:33:01,419 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:33:02,421 INFO spawned: 'tailwind' with pid 25
+2024-12-27 13:33:03,664 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:33:03,664 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:33:04,667 INFO spawned: 'tailwind' with pid 26
+2024-12-27 13:33:05,918 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:33:05,918 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:33:06,921 INFO spawned: 'tailwind' with pid 27
+2024-12-27 13:33:08,165 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:33:08,165 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:33:09,167 INFO spawned: 'tailwind' with pid 28
+2024-12-27 13:33:10,424 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:33:10,424 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:33:11,427 INFO spawned: 'tailwind' with pid 29
+2024-12-27 13:33:12,669 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:33:12,669 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:33:13,672 INFO spawned: 'tailwind' with pid 30
+2024-12-27 13:33:14,925 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:33:14,925 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:33:15,928 INFO spawned: 'tailwind' with pid 31
+2024-12-27 13:33:16,162 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:33:17,166 INFO spawned: 'tailwind' with pid 32
+2024-12-27 13:33:18,404 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:33:18,404 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:33:19,406 INFO spawned: 'tailwind' with pid 33
+2024-12-27 13:33:20,651 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:33:20,651 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:33:21,653 INFO spawned: 'tailwind' with pid 34
+2024-12-27 13:33:21,887 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:33:22,890 INFO spawned: 'tailwind' with pid 35
+2024-12-27 13:33:23,126 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:33:25,132 INFO spawned: 'tailwind' with pid 36
+2024-12-27 13:33:26,368 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:33:26,369 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:33:27,371 INFO spawned: 'tailwind' with pid 37
+2024-12-27 13:33:27,606 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:33:28,609 INFO spawned: 'tailwind' with pid 38
+2024-12-27 13:33:29,873 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:33:29,873 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:33:30,882 INFO spawned: 'tailwind' with pid 39
+2024-12-27 13:33:31,137 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:33:32,139 INFO spawned: 'tailwind' with pid 40
+2024-12-27 13:33:33,380 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:33:33,381 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:33:34,383 INFO spawned: 'tailwind' with pid 41
+2024-12-27 13:33:35,621 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:33:35,622 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:33:36,624 INFO spawned: 'tailwind' with pid 42
+2024-12-27 13:33:37,861 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:33:37,862 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:33:38,864 INFO spawned: 'tailwind' with pid 43
+2024-12-27 13:33:39,101 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:33:40,104 INFO spawned: 'tailwind' with pid 44
+2024-12-27 13:33:41,345 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:33:41,346 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:33:42,349 INFO spawned: 'tailwind' with pid 45
+2024-12-27 13:33:42,590 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:33:43,593 INFO spawned: 'tailwind' with pid 46
+2024-12-27 13:33:44,844 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:33:44,845 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:33:45,847 INFO spawned: 'tailwind' with pid 47
+2024-12-27 13:33:46,083 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:33:47,085 INFO spawned: 'tailwind' with pid 48
+2024-12-27 13:33:48,321 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:33:48,322 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:33:49,324 INFO spawned: 'tailwind' with pid 49
+2024-12-27 13:33:49,569 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:33:50,571 INFO spawned: 'tailwind' with pid 50
+2024-12-27 13:33:51,810 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:33:51,811 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:33:52,813 INFO spawned: 'tailwind' with pid 51
+2024-12-27 13:33:53,048 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:33:54,051 INFO spawned: 'tailwind' with pid 52
+2024-12-27 13:33:55,290 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:33:55,290 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:33:56,292 INFO spawned: 'tailwind' with pid 53
+2024-12-27 13:33:57,538 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:33:57,538 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:33:58,541 INFO spawned: 'tailwind' with pid 54
+2024-12-27 13:33:59,793 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:33:59,793 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:34:00,796 INFO spawned: 'tailwind' with pid 55
+2024-12-27 13:34:02,035 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:34:02,035 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:34:03,037 INFO spawned: 'tailwind' with pid 56
+2024-12-27 13:34:03,277 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:34:04,279 INFO spawned: 'tailwind' with pid 57
+2024-12-27 13:34:05,519 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:34:05,519 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:34:06,521 INFO spawned: 'tailwind' with pid 58
+2024-12-27 13:34:07,761 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:34:07,761 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:34:08,764 INFO spawned: 'tailwind' with pid 59
+2024-12-27 13:34:09,002 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:34:10,005 INFO spawned: 'tailwind' with pid 60
+2024-12-27 13:34:10,246 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:34:12,251 INFO spawned: 'tailwind' with pid 61
+2024-12-27 13:34:12,496 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:34:15,503 INFO spawned: 'tailwind' with pid 62
+2024-12-27 13:34:15,739 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:34:16,742 INFO gave up: tailwind entered FATAL state, too many start retries too quickly
+2024-12-27 13:35:59,946 WARN received SIGTERM indicating exit request
+2024-12-27 13:35:59,947 INFO waiting for web to die
+2024-12-27 13:35:59,985 INFO stopped: web (exit status 0)
+2024-12-27 13:36:03,466 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-12-27 13:36:03,467 INFO supervisord started with pid 1
+2024-12-27 13:36:04,470 INFO spawned: 'tailwind' with pid 7
+2024-12-27 13:36:04,471 INFO spawned: 'web' with pid 8
+2024-12-27 13:36:05,473 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:36:05,473 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:56:51,851 WARN received SIGTERM indicating exit request
+2024-12-27 13:56:51,851 INFO waiting for tailwind, web to die
+2024-12-27 13:56:51,896 INFO stopped: web (exit status 0)
+2024-12-27 13:56:52,899 WARN stopped: tailwind (terminated by SIGTERM)
+2024-12-27 13:56:59,984 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-12-27 13:56:59,986 INFO supervisord started with pid 1
+2024-12-27 13:57:00,988 INFO spawned: 'tailwind' with pid 7
+2024-12-27 13:57:00,989 INFO spawned: 'web' with pid 8
+2024-12-27 13:57:01,976 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:57:02,062 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:57:03,129 INFO spawned: 'tailwind' with pid 11
+2024-12-27 13:57:03,332 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:57:05,336 INFO spawned: 'tailwind' with pid 12
+2024-12-27 13:57:06,529 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:57:06,530 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:57:07,532 INFO spawned: 'tailwind' with pid 13
+2024-12-27 13:57:08,711 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:57:08,711 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:57:09,714 INFO spawned: 'tailwind' with pid 14
+2024-12-27 13:57:09,934 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:57:10,937 INFO spawned: 'tailwind' with pid 15
+2024-12-27 13:57:11,149 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:57:13,154 INFO spawned: 'tailwind' with pid 16
+2024-12-27 13:57:13,382 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 13:57:16,388 INFO spawned: 'tailwind' with pid 17
+2024-12-27 13:57:17,153 WARN received SIGTERM indicating exit request
+2024-12-27 13:57:17,154 INFO waiting for tailwind, web to die
+2024-12-27 13:57:17,188 INFO stopped: web (exit status 0)
+2024-12-27 13:57:17,779 WARN stopped: tailwind (terminated by SIGTERM)
+2024-12-27 13:57:23,278 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-12-27 13:57:23,280 INFO supervisord started with pid 1
+2024-12-27 13:57:24,282 INFO spawned: 'tailwind' with pid 7
+2024-12-27 13:57:24,284 INFO spawned: 'web' with pid 8
+2024-12-27 13:57:25,285 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 13:57:25,286 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 14:02:48,534 WARN received SIGTERM indicating exit request
+2024-12-27 14:02:48,534 INFO waiting for tailwind, web to die
+2024-12-27 14:02:48,573 INFO stopped: web (exit status 0)
+2024-12-27 14:02:49,576 WARN stopped: tailwind (terminated by SIGTERM)
+2024-12-27 14:02:52,699 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-12-27 14:02:52,701 INFO supervisord started with pid 1
+2024-12-27 14:02:53,703 INFO spawned: 'tailwind' with pid 7
+2024-12-27 14:02:53,705 INFO spawned: 'web' with pid 8
+2024-12-27 14:02:54,707 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 14:02:54,707 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 14:02:54,816 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 14:02:54,967 INFO spawned: 'tailwind' with pid 11
+2024-12-27 14:02:55,175 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 14:02:56,177 INFO spawned: 'tailwind' with pid 12
+2024-12-27 14:02:57,394 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 14:02:57,395 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 14:02:58,397 INFO spawned: 'tailwind' with pid 13
+2024-12-27 14:02:58,609 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 14:02:59,612 INFO spawned: 'tailwind' with pid 14
+2024-12-27 14:02:59,827 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 14:03:01,831 INFO spawned: 'tailwind' with pid 15
+2024-12-27 14:03:02,077 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 14:03:05,083 INFO spawned: 'tailwind' with pid 16
+2024-12-27 14:03:05,324 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 14:03:06,325 INFO gave up: tailwind entered FATAL state, too many start retries too quickly
+2024-12-27 14:03:10,333 WARN received SIGTERM indicating exit request
+2024-12-27 14:03:10,334 INFO waiting for web to die
+2024-12-27 14:03:10,387 INFO stopped: web (exit status 0)
+2024-12-27 14:03:38,607 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-12-27 14:03:38,609 INFO supervisord started with pid 1
+2024-12-27 14:03:39,612 INFO spawned: 'tailwind' with pid 7
+2024-12-27 14:03:39,613 INFO spawned: 'web' with pid 8
+2024-12-27 14:03:40,615 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 14:03:40,615 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 14:03:40,728 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 14:03:40,876 INFO spawned: 'tailwind' with pid 11
+2024-12-27 14:03:41,084 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 14:03:42,087 INFO spawned: 'tailwind' with pid 12
+2024-12-27 14:03:43,294 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 14:03:43,294 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 14:03:44,297 INFO spawned: 'tailwind' with pid 13
+2024-12-27 14:03:44,498 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 14:03:45,501 INFO spawned: 'tailwind' with pid 14
+2024-12-27 14:03:46,707 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 14:03:46,707 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 14:03:47,710 INFO spawned: 'tailwind' with pid 15
+2024-12-27 14:03:47,952 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 14:03:48,955 INFO spawned: 'tailwind' with pid 16
+2024-12-27 14:03:49,198 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 14:03:51,203 INFO spawned: 'tailwind' with pid 17
+2024-12-27 14:03:51,459 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 14:03:54,466 INFO spawned: 'tailwind' with pid 18
+2024-12-27 14:03:54,721 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 14:03:55,723 INFO gave up: tailwind entered FATAL state, too many start retries too quickly
+2024-12-27 14:06:33,109 WARN received SIGTERM indicating exit request
+2024-12-27 14:06:33,110 INFO waiting for web to die
+2024-12-27 14:06:33,166 INFO stopped: web (exit status 0)
+2024-12-27 14:06:36,995 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-12-27 14:06:36,997 INFO supervisord started with pid 1
+2024-12-27 14:06:38,002 INFO spawned: 'tailwind' with pid 7
+2024-12-27 14:06:38,004 INFO spawned: 'web' with pid 8
+2024-12-27 14:06:39,005 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 14:06:39,005 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 14:06:39,142 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 14:06:39,292 INFO spawned: 'tailwind' with pid 11
+2024-12-27 14:06:39,502 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 14:06:40,505 INFO spawned: 'tailwind' with pid 12
+2024-12-27 14:06:40,713 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 14:06:42,718 INFO spawned: 'tailwind' with pid 13
+2024-12-27 14:06:42,929 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 14:06:45,936 INFO spawned: 'tailwind' with pid 14
+2024-12-27 14:06:46,171 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 14:06:47,172 INFO gave up: tailwind entered FATAL state, too many start retries too quickly
+2024-12-27 14:09:27,490 WARN received SIGTERM indicating exit request
+2024-12-27 14:09:27,490 INFO waiting for web to die
+2024-12-27 14:09:27,530 INFO stopped: web (exit status 0)
+2024-12-27 14:09:32,987 INFO Set uid to user 0 succeeded
+2024-12-27 14:09:32,989 INFO supervisord started with pid 1
+2024-12-27 14:09:33,992 INFO spawned: 'tailwind' with pid 7
+2024-12-27 14:09:33,993 INFO spawned: 'web' with pid 8
+2024-12-27 14:09:34,997 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 14:09:34,997 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 14:09:34,999 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 14:09:35,188 INFO spawned: 'tailwind' with pid 11
+2024-12-27 14:09:35,410 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 14:09:36,413 INFO spawned: 'tailwind' with pid 12
+2024-12-27 14:09:36,613 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 14:09:38,618 INFO spawned: 'tailwind' with pid 13
+2024-12-27 14:09:38,836 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 14:09:41,843 INFO spawned: 'tailwind' with pid 14
+2024-12-27 14:09:42,077 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 14:09:43,079 INFO gave up: tailwind entered FATAL state, too many start retries too quickly
+2024-12-27 14:10:40,192 WARN received SIGTERM indicating exit request
+2024-12-27 14:10:40,193 INFO waiting for web to die
+2024-12-27 14:10:40,240 INFO stopped: web (exit status 0)
+2024-12-27 14:10:42,967 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-12-27 14:10:42,969 INFO supervisord started with pid 1
+2024-12-27 14:10:43,972 INFO spawned: 'tailwind' with pid 7
+2024-12-27 14:10:43,974 INFO spawned: 'web' with pid 8
+2024-12-27 14:10:44,976 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 14:10:44,977 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 14:10:45,129 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 14:10:45,279 INFO spawned: 'tailwind' with pid 11
+2024-12-27 14:10:45,488 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 14:10:46,491 INFO spawned: 'tailwind' with pid 12
+2024-12-27 14:10:47,701 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 14:10:47,702 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 14:10:48,704 INFO spawned: 'tailwind' with pid 13
+2024-12-27 14:10:48,912 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 14:10:49,915 INFO spawned: 'tailwind' with pid 14
+2024-12-27 14:10:51,119 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 14:10:51,120 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 14:10:52,122 INFO spawned: 'tailwind' with pid 15
+2024-12-27 14:10:52,360 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 14:10:53,363 INFO spawned: 'tailwind' with pid 16
+2024-12-27 14:10:53,601 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 14:10:55,605 INFO spawned: 'tailwind' with pid 17
+2024-12-27 14:10:55,843 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 14:10:58,850 INFO spawned: 'tailwind' with pid 18
+2024-12-27 14:10:59,097 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 14:11:00,098 INFO gave up: tailwind entered FATAL state, too many start retries too quickly
+2024-12-27 14:17:21,746 WARN received SIGTERM indicating exit request
+2024-12-27 14:17:21,746 INFO waiting for web to die
+2024-12-27 14:17:21,791 INFO stopped: web (exit status 0)
+2024-12-27 14:17:24,541 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-12-27 14:17:24,543 INFO supervisord started with pid 1
+2024-12-27 14:17:25,546 INFO spawned: 'tailwind' with pid 7
+2024-12-27 14:17:25,547 INFO spawned: 'web' with pid 8
+2024-12-27 14:17:26,489 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 14:17:26,597 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 14:17:27,975 INFO spawned: 'tailwind' with pid 15
+2024-12-27 14:17:28,160 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 14:17:30,163 INFO spawned: 'tailwind' with pid 17
+2024-12-27 14:17:30,341 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 14:17:33,347 INFO spawned: 'tailwind' with pid 19
+2024-12-27 14:17:33,558 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 14:17:34,560 INFO gave up: tailwind entered FATAL state, too many start retries too quickly
+2024-12-27 14:18:26,661 WARN received SIGTERM indicating exit request
+2024-12-27 14:18:26,661 INFO waiting for web to die
+2024-12-27 14:18:26,699 INFO stopped: web (exit status 0)
+2024-12-27 14:18:29,960 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-12-27 14:18:29,961 INFO supervisord started with pid 1
+2024-12-27 14:18:30,964 INFO spawned: 'tailwind' with pid 6
+2024-12-27 14:18:30,965 INFO spawned: 'web' with pid 7
+2024-12-27 14:18:31,910 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 14:18:32,008 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 14:18:33,231 INFO spawned: 'tailwind' with pid 14
+2024-12-27 14:18:33,406 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 14:18:35,411 INFO spawned: 'tailwind' with pid 16
+2024-12-27 14:18:35,589 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 14:18:38,596 INFO spawned: 'tailwind' with pid 18
+2024-12-27 14:18:38,808 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 14:18:39,810 INFO gave up: tailwind entered FATAL state, too many start retries too quickly
+2024-12-27 14:28:02,639 WARN received SIGTERM indicating exit request
+2024-12-27 14:28:02,639 INFO waiting for web to die
+2024-12-27 14:28:02,678 INFO stopped: web (exit status 0)
+2024-12-27 14:28:06,224 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-12-27 14:28:06,226 INFO supervisord started with pid 1
+2024-12-27 14:28:07,229 INFO spawned: 'tailwind' with pid 7
+2024-12-27 14:28:07,230 INFO spawned: 'web' with pid 8
+2024-12-27 14:28:08,232 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 14:28:08,232 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 14:28:47,143 WARN received SIGTERM indicating exit request
+2024-12-27 14:28:47,144 INFO waiting for tailwind, web to die
+2024-12-27 14:28:47,182 INFO stopped: web (exit status 0)
+2024-12-27 14:28:48,183 WARN stopped: tailwind (terminated by SIGTERM)
+2024-12-27 14:30:19,874 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-12-27 14:30:19,876 INFO supervisord started with pid 1
+2024-12-27 14:30:20,879 INFO spawned: 'tailwind' with pid 7
+2024-12-27 14:30:20,881 INFO spawned: 'web' with pid 8
+2024-12-27 14:30:21,882 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 14:30:21,883 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 14:30:22,015 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 14:30:22,164 INFO spawned: 'tailwind' with pid 11
+2024-12-27 14:30:22,378 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 14:30:23,380 INFO spawned: 'tailwind' with pid 12
+2024-12-27 14:30:23,583 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 14:30:25,588 INFO spawned: 'tailwind' with pid 13
+2024-12-27 14:30:25,788 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 14:30:28,795 INFO spawned: 'tailwind' with pid 14
+2024-12-27 14:30:29,039 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 14:30:30,041 INFO gave up: tailwind entered FATAL state, too many start retries too quickly
+2024-12-27 14:30:58,834 WARN received SIGTERM indicating exit request
+2024-12-27 14:30:58,834 INFO waiting for web to die
+2024-12-27 14:30:58,878 INFO stopped: web (exit status 0)
+2024-12-27 14:31:02,041 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-12-27 14:31:02,043 INFO supervisord started with pid 1
+2024-12-27 14:31:03,045 INFO spawned: 'tailwind' with pid 7
+2024-12-27 14:31:03,047 INFO spawned: 'web' with pid 8
+2024-12-27 14:31:04,048 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 14:31:04,048 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 14:33:27,765 WARN received SIGTERM indicating exit request
+2024-12-27 14:33:27,765 INFO waiting for tailwind, web to die
+2024-12-27 14:33:27,803 INFO stopped: web (exit status 0)
+2024-12-27 14:33:28,806 WARN stopped: tailwind (terminated by SIGTERM)
+2024-12-27 14:33:53,914 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-12-27 14:33:53,916 INFO supervisord started with pid 1
+2024-12-27 14:33:54,919 INFO spawned: 'tailwind' with pid 7
+2024-12-27 14:33:54,920 INFO spawned: 'web' with pid 8
+2024-12-27 14:33:55,921 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 14:33:55,921 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 14:33:56,046 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 14:33:56,194 INFO spawned: 'tailwind' with pid 11
+2024-12-27 14:33:56,402 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 14:33:57,405 INFO spawned: 'tailwind' with pid 12
+2024-12-27 14:33:58,615 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 14:33:58,616 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 14:33:59,618 INFO spawned: 'tailwind' with pid 19
+2024-12-27 14:33:59,824 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 14:34:00,826 INFO spawned: 'tailwind' with pid 20
+2024-12-27 14:34:01,027 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 14:34:03,031 INFO spawned: 'tailwind' with pid 21
+2024-12-27 14:34:03,234 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 14:34:06,241 INFO spawned: 'tailwind' with pid 22
+2024-12-27 14:34:06,490 WARN exited: tailwind (exit status 1; not expected)
+2024-12-27 14:34:07,492 INFO gave up: tailwind entered FATAL state, too many start retries too quickly
+2024-12-27 14:35:49,253 WARN received SIGTERM indicating exit request
+2024-12-27 14:35:49,254 INFO waiting for web to die
+2024-12-27 14:35:49,295 INFO stopped: web (exit status 0)
+2024-12-27 14:35:53,575 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-12-27 14:35:53,576 INFO supervisord started with pid 1
+2024-12-27 14:35:54,578 INFO spawned: 'tailwind' with pid 7
+2024-12-27 14:35:54,580 INFO spawned: 'web' with pid 8
+2024-12-27 14:35:55,580 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 14:35:55,581 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-27 14:36:24,905 WARN received SIGTERM indicating exit request
+2024-12-27 14:36:24,906 INFO waiting for tailwind, web to die
+2024-12-27 14:36:24,961 INFO stopped: web (exit status 0)
+2024-12-27 14:36:25,963 WARN stopped: tailwind (terminated by SIGTERM)
+2024-12-29 08:35:45,927 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-12-29 08:35:45,930 INFO supervisord started with pid 1
+2024-12-29 08:35:46,934 INFO spawned: 'tailwind' with pid 7
+2024-12-29 08:35:46,937 INFO spawned: 'web' with pid 8
+2024-12-29 08:35:47,967 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-29 08:35:47,968 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-29 10:50:55,762 WARN received SIGTERM indicating exit request
+2024-12-29 10:50:55,762 INFO waiting for tailwind, web to die
+2024-12-29 10:50:55,817 INFO stopped: web (exit status 0)
+2024-12-29 10:50:56,819 WARN stopped: tailwind (terminated by SIGTERM)
+2024-12-29 10:50:59,580 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-12-29 10:50:59,582 INFO supervisord started with pid 1
+2024-12-29 10:51:00,585 INFO spawned: 'tailwind' with pid 7
+2024-12-29 10:51:00,586 INFO spawned: 'web' with pid 8
+2024-12-29 10:51:01,587 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-29 10:51:01,587 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-29 12:07:44,824 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-12-29 12:07:44,827 INFO supervisord started with pid 1
+2024-12-29 12:07:45,830 INFO spawned: 'tailwind' with pid 7
+2024-12-29 12:07:45,833 INFO spawned: 'web' with pid 8
+2024-12-29 12:07:46,909 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-29 12:07:46,909 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-29 14:27:23,791 WARN received SIGTERM indicating exit request
+2024-12-29 14:27:23,791 INFO waiting for tailwind, web to die
+2024-12-29 14:27:23,830 INFO stopped: web (exit status 0)
+2024-12-29 14:27:24,833 WARN stopped: tailwind (terminated by SIGTERM)
+2024-12-29 14:27:28,640 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-12-29 14:27:28,642 INFO supervisord started with pid 1
+2024-12-29 14:27:29,644 INFO spawned: 'tailwind' with pid 6
+2024-12-29 14:27:29,646 INFO spawned: 'web' with pid 7
+2024-12-29 14:27:30,648 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-29 14:27:30,648 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-29 14:28:24,496 WARN received SIGTERM indicating exit request
+2024-12-29 14:28:24,496 INFO waiting for tailwind, web to die
+2024-12-29 14:28:24,541 INFO stopped: web (exit status 0)
+2024-12-29 14:28:25,543 WARN stopped: tailwind (terminated by SIGTERM)
+2024-12-29 14:28:26,486 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-12-29 14:28:26,488 INFO supervisord started with pid 1
+2024-12-29 14:28:27,491 INFO spawned: 'tailwind' with pid 6
+2024-12-29 14:28:27,492 INFO spawned: 'web' with pid 7
+2024-12-29 14:28:28,493 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-29 14:28:28,493 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-29 14:52:30,770 WARN received SIGTERM indicating exit request
+2024-12-29 14:52:30,770 INFO waiting for tailwind, web to die
+2024-12-29 14:52:30,811 INFO stopped: web (exit status 0)
+2024-12-29 14:52:31,814 WARN stopped: tailwind (terminated by SIGTERM)
+2025-01-02 08:13:35,906 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-01-02 08:13:35,909 INFO supervisord started with pid 1
+2025-01-02 08:13:36,913 INFO spawned: 'tailwind' with pid 7
+2025-01-02 08:13:36,915 INFO spawned: 'web' with pid 8
+2025-01-02 08:13:37,963 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-02 08:13:37,963 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-02 08:31:31,414 WARN received SIGTERM indicating exit request
+2025-01-02 08:31:31,414 INFO waiting for tailwind, web to die
+2025-01-02 08:31:31,463 INFO stopped: web (exit status 0)
+2025-01-02 08:31:32,466 WARN stopped: tailwind (terminated by SIGTERM)
+2025-01-02 08:31:35,243 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-01-02 08:31:35,245 INFO supervisord started with pid 1
+2025-01-02 08:31:36,247 INFO spawned: 'tailwind' with pid 7
+2025-01-02 08:31:36,248 INFO spawned: 'web' with pid 8
+2025-01-02 08:31:37,250 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-02 08:31:37,250 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-02 08:31:37,597 WARN exited: tailwind (exit status 1; not expected)
+2025-01-02 08:31:37,598 INFO spawned: 'tailwind' with pid 11
+2025-01-02 08:31:37,834 WARN exited: tailwind (exit status 1; not expected)
+2025-01-02 08:31:38,836 INFO spawned: 'tailwind' with pid 12
+2025-01-02 08:31:39,062 WARN exited: tailwind (exit status 1; not expected)
+2025-01-02 08:31:41,067 INFO spawned: 'tailwind' with pid 13
+2025-01-02 08:31:41,301 WARN exited: tailwind (exit status 1; not expected)
+2025-01-02 08:31:44,308 INFO spawned: 'tailwind' with pid 14
+2025-01-02 08:31:44,574 WARN exited: tailwind (exit status 1; not expected)
+2025-01-02 08:31:45,575 INFO gave up: tailwind entered FATAL state, too many start retries too quickly
+2025-01-02 09:12:20,101 WARN received SIGTERM indicating exit request
+2025-01-02 09:12:20,102 INFO waiting for web to die
+2025-01-02 09:12:20,143 INFO stopped: web (exit status 0)
+2025-01-02 09:12:27,257 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-01-02 09:12:27,259 INFO supervisord started with pid 1
+2025-01-02 09:12:28,261 INFO spawned: 'tailwind' with pid 7
+2025-01-02 09:12:28,263 INFO spawned: 'web' with pid 8
+2025-01-02 09:12:29,264 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-02 09:12:29,264 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-02 09:12:29,400 WARN exited: tailwind (exit status 1; not expected)
+2025-01-02 09:12:29,541 INFO spawned: 'tailwind' with pid 11
+2025-01-02 09:12:29,779 WARN exited: tailwind (exit status 1; not expected)
+2025-01-02 09:12:30,782 INFO spawned: 'tailwind' with pid 12
+2025-01-02 09:12:31,018 WARN exited: tailwind (exit status 1; not expected)
+2025-01-02 09:12:33,023 INFO spawned: 'tailwind' with pid 13
+2025-01-02 09:12:33,246 WARN exited: tailwind (exit status 1; not expected)
+2025-01-02 09:12:36,253 INFO spawned: 'tailwind' with pid 14
+2025-01-02 09:12:36,508 WARN exited: tailwind (exit status 1; not expected)
+2025-01-02 09:12:37,510 INFO gave up: tailwind entered FATAL state, too many start retries too quickly
+2025-01-02 09:13:02,560 WARN received SIGTERM indicating exit request
+2025-01-02 09:13:02,560 INFO waiting for web to die
+2025-01-02 09:13:02,604 INFO stopped: web (exit status 0)
+2025-01-02 09:14:02,802 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-01-02 09:14:02,803 INFO supervisord started with pid 1
+2025-01-02 09:14:03,806 INFO spawned: 'tailwind' with pid 7
+2025-01-02 09:14:03,807 INFO spawned: 'web' with pid 8
+2025-01-02 09:14:04,809 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-02 09:14:04,809 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-02 09:14:05,006 WARN exited: tailwind (exit status 1; not expected)
+2025-01-02 09:14:05,148 INFO spawned: 'tailwind' with pid 10
+2025-01-02 09:14:05,405 WARN exited: tailwind (exit status 1; not expected)
+2025-01-02 09:14:06,408 INFO spawned: 'tailwind' with pid 12
+2025-01-02 09:14:06,632 WARN exited: tailwind (exit status 1; not expected)
+2025-01-02 09:14:08,637 INFO spawned: 'tailwind' with pid 13
+2025-01-02 09:14:08,908 WARN exited: tailwind (exit status 1; not expected)
+2025-01-02 09:14:11,915 INFO spawned: 'tailwind' with pid 14
+2025-01-02 09:14:12,196 WARN exited: tailwind (exit status 1; not expected)
+2025-01-02 09:14:13,198 INFO gave up: tailwind entered FATAL state, too many start retries too quickly
+2025-01-02 09:15:22,545 WARN received SIGTERM indicating exit request
+2025-01-02 09:15:22,545 INFO waiting for web to die
+2025-01-02 09:15:22,611 INFO stopped: web (exit status 0)
+2025-01-02 09:15:31,900 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-01-02 09:15:31,902 INFO supervisord started with pid 1
+2025-01-02 09:15:32,904 INFO spawned: 'tailwind' with pid 7
+2025-01-02 09:15:32,905 INFO spawned: 'web' with pid 8
+2025-01-02 09:15:33,906 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-02 09:15:33,907 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-02 09:15:34,093 WARN exited: tailwind (exit status 1; not expected)
+2025-01-02 09:15:34,227 INFO spawned: 'tailwind' with pid 11
+2025-01-02 09:15:34,460 WARN exited: tailwind (exit status 1; not expected)
+2025-01-02 09:15:35,463 INFO spawned: 'tailwind' with pid 12
+2025-01-02 09:15:35,706 WARN exited: tailwind (exit status 1; not expected)
+2025-01-02 09:15:37,710 INFO spawned: 'tailwind' with pid 13
+2025-01-02 09:15:37,942 WARN exited: tailwind (exit status 1; not expected)
+2025-01-02 09:15:40,949 INFO spawned: 'tailwind' with pid 14
+2025-01-02 09:15:41,202 WARN exited: tailwind (exit status 1; not expected)
+2025-01-02 09:15:42,204 INFO gave up: tailwind entered FATAL state, too many start retries too quickly
+2025-01-02 09:15:54,227 WARN received SIGTERM indicating exit request
+2025-01-02 09:15:54,227 INFO waiting for web to die
+2025-01-02 09:15:54,267 INFO stopped: web (exit status 0)
+2025-01-02 09:16:01,664 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-01-02 09:16:01,666 INFO supervisord started with pid 1
+2025-01-02 09:16:02,668 INFO spawned: 'tailwind' with pid 7
+2025-01-02 09:16:02,670 INFO spawned: 'web' with pid 8
+2025-01-02 09:16:03,670 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-02 09:16:03,671 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-02 09:16:03,974 WARN exited: tailwind (exit status 1; not expected)
+2025-01-02 09:16:04,032 INFO spawned: 'tailwind' with pid 11
+2025-01-02 09:16:04,271 WARN exited: tailwind (exit status 1; not expected)
+2025-01-02 09:16:05,272 INFO spawned: 'tailwind' with pid 12
+2025-01-02 09:16:05,500 WARN exited: tailwind (exit status 1; not expected)
+2025-01-02 09:16:07,505 INFO spawned: 'tailwind' with pid 13
+2025-01-02 09:16:07,729 WARN exited: tailwind (exit status 1; not expected)
+2025-01-02 09:16:10,735 INFO spawned: 'tailwind' with pid 14
+2025-01-02 09:16:10,995 WARN exited: tailwind (exit status 1; not expected)
+2025-01-02 09:16:11,997 INFO gave up: tailwind entered FATAL state, too many start retries too quickly
+2025-01-02 09:30:14,389 WARN exited: web (exit status 1; not expected)
+2025-01-02 09:30:15,391 INFO spawned: 'web' with pid 20
+2025-01-02 09:30:15,915 WARN exited: web (exit status 1; not expected)
+2025-01-02 09:30:16,918 INFO spawned: 'web' with pid 23
+2025-01-02 09:30:17,422 WARN exited: web (exit status 1; not expected)
+2025-01-02 09:30:19,428 INFO spawned: 'web' with pid 26
+2025-01-02 09:30:19,973 WARN exited: web (exit status 1; not expected)
+2025-01-02 09:30:22,980 INFO spawned: 'web' with pid 29
+2025-01-02 09:30:23,498 WARN exited: web (exit status 1; not expected)
+2025-01-02 09:30:24,500 INFO gave up: web entered FATAL state, too many start retries too quickly
+2025-01-02 09:31:12,595 WARN received SIGTERM indicating exit request
+2025-01-02 09:31:23,043 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-01-02 09:31:23,045 INFO supervisord started with pid 1
+2025-01-02 09:31:24,047 INFO spawned: 'tailwind' with pid 7
+2025-01-02 09:31:24,048 INFO spawned: 'web' with pid 8
+2025-01-02 09:31:25,050 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-02 09:31:25,052 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-02 09:31:25,318 WARN exited: tailwind (exit status 1; not expected)
+2025-01-02 09:31:25,451 INFO spawned: 'tailwind' with pid 16
+2025-01-02 09:31:25,596 WARN exited: web (exit status 1; not expected)
+2025-01-02 09:31:25,644 INFO spawned: 'web' with pid 18
+2025-01-02 09:31:25,684 WARN exited: tailwind (exit status 1; not expected)
+2025-01-02 09:31:26,100 WARN exited: web (exit status 1; not expected)
+2025-01-02 09:31:27,102 INFO spawned: 'tailwind' with pid 21
+2025-01-02 09:31:27,104 INFO spawned: 'web' with pid 22
+2025-01-02 09:31:27,326 WARN exited: tailwind (exit status 1; not expected)
+2025-01-02 09:31:27,557 WARN exited: web (exit status 1; not expected)
+2025-01-02 09:31:29,562 INFO spawned: 'tailwind' with pid 25
+2025-01-02 09:31:29,563 INFO spawned: 'web' with pid 26
+2025-01-02 09:31:29,799 WARN exited: tailwind (exit status 1; not expected)
+2025-01-02 09:31:30,005 WARN exited: web (exit status 1; not expected)
+2025-01-02 09:31:33,011 INFO spawned: 'tailwind' with pid 29
+2025-01-02 09:31:33,012 INFO spawned: 'web' with pid 30
+2025-01-02 09:31:33,243 WARN exited: tailwind (exit status 1; not expected)
+2025-01-02 09:31:33,388 INFO gave up: tailwind entered FATAL state, too many start retries too quickly
+2025-01-02 09:31:33,471 WARN exited: web (exit status 1; not expected)
+2025-01-02 09:31:34,472 INFO gave up: web entered FATAL state, too many start retries too quickly
+2025-01-02 09:33:13,668 WARN received SIGTERM indicating exit request
+2025-01-02 09:33:16,919 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-01-02 09:33:16,920 INFO supervisord started with pid 1
+2025-01-02 09:33:17,923 INFO spawned: 'tailwind' with pid 7
+2025-01-02 09:33:17,925 INFO spawned: 'web' with pid 8
+2025-01-02 09:33:18,925 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-02 09:33:18,925 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-03 11:46:52,114 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-01-03 11:46:52,117 INFO supervisord started with pid 1
+2025-01-03 11:46:53,121 INFO spawned: 'tailwind' with pid 7
+2025-01-03 11:46:53,123 INFO spawned: 'web' with pid 8
+2025-01-03 11:46:54,146 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-03 11:46:54,146 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-03 12:20:52,507 WARN received SIGTERM indicating exit request
+2025-01-03 12:20:52,507 INFO waiting for tailwind, web to die
+2025-01-03 12:20:52,553 INFO stopped: web (exit status 0)
+2025-01-03 12:20:53,555 WARN stopped: tailwind (terminated by SIGTERM)
+2025-01-03 12:20:57,727 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-01-03 12:20:57,729 INFO supervisord started with pid 1
+2025-01-03 12:20:58,732 INFO spawned: 'tailwind' with pid 7
+2025-01-03 12:20:58,733 INFO spawned: 'web' with pid 8
+2025-01-03 12:20:59,734 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-03 12:20:59,734 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-03 12:48:47,164 WARN received SIGTERM indicating exit request
+2025-01-03 12:48:47,165 INFO waiting for tailwind, web to die
+2025-01-03 12:48:47,223 INFO stopped: web (exit status 0)
+2025-01-03 12:48:48,225 WARN stopped: tailwind (terminated by SIGTERM)
+2025-01-03 12:52:10,614 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-01-03 12:52:10,616 INFO supervisord started with pid 1
+2025-01-03 12:52:11,618 INFO spawned: 'tailwind' with pid 7
+2025-01-03 12:52:11,620 INFO spawned: 'web' with pid 8
+2025-01-03 12:52:12,622 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-03 12:52:12,622 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-03 13:05:18,791 WARN received SIGTERM indicating exit request
+2025-01-03 13:05:18,792 INFO waiting for tailwind, web to die
+2025-01-03 13:05:18,846 INFO stopped: web (exit status 0)
+2025-01-03 13:05:19,848 WARN stopped: tailwind (terminated by SIGTERM)
+2025-01-03 13:05:23,178 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-01-03 13:05:23,179 INFO supervisord started with pid 1
+2025-01-03 13:05:24,182 INFO spawned: 'tailwind' with pid 7
+2025-01-03 13:05:24,183 INFO spawned: 'web' with pid 8
+2025-01-03 13:05:24,998 WARN exited: tailwind (exit status 1; not expected)
+2025-01-03 13:05:26,151 INFO spawned: 'tailwind' with pid 11
+2025-01-03 13:05:26,151 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-03 13:05:26,293 WARN exited: tailwind (exit status 1; not expected)
+2025-01-03 13:05:28,297 INFO spawned: 'tailwind' with pid 12
+2025-01-03 13:05:28,446 WARN exited: tailwind (exit status 1; not expected)
+2025-01-03 13:05:31,453 INFO spawned: 'tailwind' with pid 13
+2025-01-03 13:05:31,614 WARN exited: tailwind (exit status 1; not expected)
+2025-01-03 13:05:32,616 INFO gave up: tailwind entered FATAL state, too many start retries too quickly
+2025-01-03 13:21:36,914 WARN received SIGTERM indicating exit request
+2025-01-03 13:21:36,915 INFO waiting for web to die
+2025-01-03 13:21:36,952 INFO stopped: web (exit status 0)
+2025-01-03 13:21:39,866 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-01-03 13:21:39,867 INFO supervisord started with pid 1
+2025-01-03 13:21:40,870 INFO spawned: 'tailwind' with pid 7
+2025-01-03 13:21:40,871 INFO spawned: 'web' with pid 8
+2025-01-03 13:21:41,872 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-03 13:21:41,872 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-03 13:22:47,287 WARN received SIGTERM indicating exit request
+2025-01-03 13:22:47,288 INFO waiting for tailwind, web to die
+2025-01-03 13:22:47,332 INFO stopped: web (exit status 0)
+2025-01-03 13:22:48,334 WARN stopped: tailwind (terminated by SIGTERM)
+2025-01-03 13:22:51,929 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-01-03 13:22:51,931 INFO supervisord started with pid 1
+2025-01-03 13:22:52,933 INFO spawned: 'tailwind' with pid 7
+2025-01-03 13:22:52,934 INFO spawned: 'web' with pid 8
+2025-01-03 13:22:53,936 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-03 13:22:53,938 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-03 13:23:19,966 WARN received SIGTERM indicating exit request
+2025-01-03 13:23:19,966 INFO waiting for tailwind, web to die
+2025-01-03 13:23:20,014 INFO stopped: web (exit status 0)
+2025-01-03 13:23:21,017 WARN stopped: tailwind (terminated by SIGTERM)
+2025-01-03 13:23:23,553 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-01-03 13:23:23,555 INFO supervisord started with pid 1
+2025-01-03 13:23:24,558 INFO spawned: 'tailwind' with pid 7
+2025-01-03 13:23:24,559 INFO spawned: 'web' with pid 8
+2025-01-03 13:23:25,560 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-03 13:23:25,560 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-03 13:23:40,595 WARN received SIGTERM indicating exit request
+2025-01-03 13:23:40,595 INFO waiting for tailwind, web to die
+2025-01-03 13:23:40,645 INFO stopped: web (exit status 0)
+2025-01-03 13:23:41,648 WARN stopped: tailwind (terminated by SIGTERM)
+2025-01-03 13:23:44,145 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-01-03 13:23:44,147 INFO supervisord started with pid 1
+2025-01-03 13:23:45,150 INFO spawned: 'tailwind' with pid 7
+2025-01-03 13:23:45,151 INFO spawned: 'web' with pid 8
+2025-01-03 13:23:46,152 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-03 13:23:46,152 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-03 13:31:42,359 WARN received SIGTERM indicating exit request
+2025-01-03 13:31:42,360 INFO waiting for tailwind, web to die
+2025-01-03 13:31:42,404 INFO stopped: web (exit status 0)
+2025-01-03 13:31:43,405 WARN stopped: tailwind (terminated by SIGTERM)
+2025-01-03 13:31:49,260 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-01-03 13:31:49,262 INFO supervisord started with pid 1
+2025-01-03 13:31:50,265 INFO spawned: 'tailwind' with pid 7
+2025-01-03 13:31:50,266 INFO spawned: 'web' with pid 8
+2025-01-03 13:31:51,268 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-03 13:31:51,268 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-03 13:35:22,813 WARN received SIGTERM indicating exit request
+2025-01-03 13:35:22,813 INFO waiting for tailwind, web to die
+2025-01-03 13:35:22,851 INFO stopped: web (exit status 0)
+2025-01-03 13:35:23,854 WARN stopped: tailwind (terminated by SIGTERM)
+2025-01-03 13:35:28,434 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-01-03 13:35:28,436 INFO supervisord started with pid 1
+2025-01-03 13:35:29,438 INFO spawned: 'tailwind' with pid 7
+2025-01-03 13:35:29,440 INFO spawned: 'web' with pid 8
+2025-01-03 13:35:30,440 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-03 13:35:30,441 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-03 13:35:59,646 WARN received SIGTERM indicating exit request
+2025-01-03 13:35:59,647 INFO waiting for tailwind, web to die
+2025-01-03 13:35:59,694 INFO stopped: web (exit status 0)
+2025-01-03 13:36:00,696 WARN stopped: tailwind (terminated by SIGTERM)
+2025-01-03 13:36:03,088 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-01-03 13:36:03,090 INFO supervisord started with pid 1
+2025-01-03 13:36:04,092 INFO spawned: 'tailwind' with pid 7
+2025-01-03 13:36:04,093 INFO spawned: 'web' with pid 8
+2025-01-03 13:36:05,094 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-03 13:36:05,094 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-03 13:37:16,690 WARN received SIGTERM indicating exit request
+2025-01-03 13:37:16,691 INFO waiting for tailwind, web to die
+2025-01-03 13:37:16,744 INFO stopped: web (exit status 0)
+2025-01-03 13:37:17,746 WARN stopped: tailwind (terminated by SIGTERM)
+2025-01-03 13:37:21,007 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-01-03 13:37:21,009 INFO supervisord started with pid 1
+2025-01-03 13:37:22,011 INFO spawned: 'tailwind' with pid 7
+2025-01-03 13:37:22,012 INFO spawned: 'web' with pid 8
+2025-01-03 13:37:23,014 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-03 13:37:23,014 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-04 08:04:19,666 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-01-04 08:04:19,669 INFO supervisord started with pid 1
+2025-01-04 08:04:20,678 INFO spawned: 'tailwind' with pid 6
+2025-01-04 08:04:20,679 INFO spawned: 'web' with pid 7
+2025-01-04 08:04:21,760 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-04 08:04:21,761 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-04 08:49:40,624 WARN received SIGTERM indicating exit request
+2025-01-04 08:49:40,624 INFO waiting for tailwind, web to die
+2025-01-04 08:49:40,666 INFO stopped: web (exit status 0)
+2025-01-04 08:49:41,670 WARN stopped: tailwind (terminated by SIGTERM)
+2025-01-04 08:50:04,503 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-01-04 08:50:04,505 INFO supervisord started with pid 1
+2025-01-04 08:50:05,507 INFO spawned: 'tailwind' with pid 7
+2025-01-04 08:50:05,508 INFO spawned: 'web' with pid 8
+2025-01-04 08:50:06,509 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-04 08:50:06,510 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-05 09:29:35,406 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-01-05 09:29:35,409 INFO supervisord started with pid 1
+2025-01-05 09:29:36,419 INFO spawned: 'tailwind' with pid 7
+2025-01-05 09:29:36,420 INFO spawned: 'web' with pid 8
+2025-01-05 09:29:37,542 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-05 09:29:37,542 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-05 09:30:25,300 WARN received SIGTERM indicating exit request
+2025-01-05 09:30:25,300 INFO waiting for tailwind, web to die
+2025-01-05 09:30:25,348 INFO stopped: web (exit status 0)
+2025-01-05 09:30:26,351 WARN stopped: tailwind (terminated by SIGTERM)
+2025-01-05 09:30:32,297 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-01-05 09:30:32,299 INFO supervisord started with pid 1
+2025-01-05 09:30:33,302 INFO spawned: 'tailwind' with pid 7
+2025-01-05 09:30:33,304 INFO spawned: 'web' with pid 8
+2025-01-05 09:30:34,305 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-05 09:30:34,306 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-06 09:18:19,247 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-01-06 09:18:19,250 INFO supervisord started with pid 1
+2025-01-06 09:18:20,254 INFO spawned: 'tailwind' with pid 7
+2025-01-06 09:18:20,255 INFO spawned: 'web' with pid 8
+2025-01-06 09:18:21,368 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-06 09:18:21,369 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-06 10:08:21,346 WARN received SIGTERM indicating exit request
+2025-01-06 10:08:21,346 INFO waiting for tailwind, web to die
+2025-01-06 10:08:21,392 INFO stopped: web (exit status 0)
+2025-01-06 10:08:22,394 WARN stopped: tailwind (terminated by SIGTERM)
+2025-01-06 10:08:26,144 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-01-06 10:08:26,146 INFO supervisord started with pid 1
+2025-01-06 10:08:27,148 INFO spawned: 'tailwind' with pid 7
+2025-01-06 10:08:27,149 INFO spawned: 'web' with pid 8
+2025-01-06 10:08:28,151 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-06 10:08:28,151 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-06 10:30:17,480 WARN received SIGTERM indicating exit request
+2025-01-06 10:30:17,480 INFO waiting for tailwind, web to die
+2025-01-06 10:30:17,536 INFO stopped: web (exit status 0)
+2025-01-06 10:30:18,538 WARN stopped: tailwind (terminated by SIGTERM)
+2025-01-06 10:30:21,696 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-01-06 10:30:21,698 INFO supervisord started with pid 1
+2025-01-06 10:30:22,700 INFO spawned: 'tailwind' with pid 7
+2025-01-06 10:30:22,702 INFO spawned: 'web' with pid 8
+2025-01-06 10:30:23,706 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-06 10:30:23,706 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-06 10:40:54,680 WARN received SIGTERM indicating exit request
+2025-01-06 10:40:54,680 INFO waiting for tailwind, web to die
+2025-01-06 10:40:54,746 INFO stopped: web (exit status 0)
+2025-01-06 10:40:55,750 WARN stopped: tailwind (terminated by SIGTERM)
+2025-01-06 10:40:58,434 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-01-06 10:40:58,436 INFO supervisord started with pid 1
+2025-01-06 10:40:59,438 INFO spawned: 'tailwind' with pid 7
+2025-01-06 10:40:59,440 INFO spawned: 'web' with pid 8
+2025-01-06 10:41:00,442 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-06 10:41:00,442 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 09:05:00,448 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-01-07 09:05:00,451 INFO supervisord started with pid 1
+2025-01-07 09:05:01,453 INFO spawned: 'tailwind' with pid 7
+2025-01-07 09:05:01,455 INFO spawned: 'web' with pid 8
+2025-01-07 09:05:02,523 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 09:05:02,524 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 09:05:13,161 WARN received SIGTERM indicating exit request
+2025-01-07 09:05:13,161 INFO waiting for tailwind, web to die
+2025-01-07 09:05:13,213 INFO stopped: web (exit status 0)
+2025-01-07 09:05:14,215 WARN stopped: tailwind (terminated by SIGTERM)
+2025-01-07 09:05:21,244 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-01-07 09:05:21,246 INFO supervisord started with pid 1
+2025-01-07 09:05:22,249 INFO spawned: 'tailwind' with pid 7
+2025-01-07 09:05:22,250 INFO spawned: 'web' with pid 8
+2025-01-07 09:05:23,252 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 09:05:23,252 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 09:58:08,598 WARN received SIGTERM indicating exit request
+2025-01-07 09:58:08,598 INFO waiting for tailwind, web to die
+2025-01-07 09:58:08,656 INFO stopped: web (exit status 0)
+2025-01-07 09:58:09,658 WARN stopped: tailwind (terminated by SIGTERM)
+2025-01-07 09:58:16,534 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-01-07 09:58:16,536 INFO supervisord started with pid 1
+2025-01-07 09:58:17,538 INFO spawned: 'tailwind' with pid 7
+2025-01-07 09:58:17,540 INFO spawned: 'web' with pid 8
+2025-01-07 09:58:18,541 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 09:58:18,542 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 09:58:18,955 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 09:58:18,956 INFO spawned: 'tailwind' with pid 11
+2025-01-07 09:58:19,203 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 09:58:20,205 INFO spawned: 'tailwind' with pid 12
+2025-01-07 09:58:20,438 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 09:58:22,442 INFO spawned: 'tailwind' with pid 13
+2025-01-07 09:58:22,689 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 09:58:25,695 INFO spawned: 'tailwind' with pid 14
+2025-01-07 09:58:26,967 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 09:58:26,968 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 09:58:27,970 INFO spawned: 'tailwind' with pid 15
+2025-01-07 09:58:28,256 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 09:58:29,258 INFO spawned: 'tailwind' with pid 16
+2025-01-07 09:58:30,528 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 09:58:30,529 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 09:58:31,531 INFO spawned: 'tailwind' with pid 17
+2025-01-07 09:58:32,811 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 09:58:32,811 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 09:58:33,814 INFO spawned: 'tailwind' with pid 18
+2025-01-07 09:58:35,086 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 09:58:35,086 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 09:58:36,089 INFO spawned: 'tailwind' with pid 19
+2025-01-07 09:58:37,367 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 09:58:37,367 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 09:58:38,369 INFO spawned: 'tailwind' with pid 20
+2025-01-07 09:58:39,644 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 09:58:39,644 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 09:58:40,647 INFO spawned: 'tailwind' with pid 21
+2025-01-07 09:58:40,917 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 09:58:41,920 INFO spawned: 'tailwind' with pid 22
+2025-01-07 09:58:43,188 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 09:58:43,188 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 09:58:44,190 INFO spawned: 'tailwind' with pid 23
+2025-01-07 09:58:44,459 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 09:58:45,462 INFO spawned: 'tailwind' with pid 24
+2025-01-07 09:58:46,732 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 09:58:46,732 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 09:58:47,735 INFO spawned: 'tailwind' with pid 25
+2025-01-07 09:58:48,003 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 09:58:49,006 INFO spawned: 'tailwind' with pid 26
+2025-01-07 09:58:49,273 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 09:58:51,278 INFO spawned: 'tailwind' with pid 27
+2025-01-07 09:58:52,546 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 09:58:52,546 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 09:58:53,550 INFO spawned: 'tailwind' with pid 28
+2025-01-07 09:58:54,818 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 09:58:54,819 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 09:58:55,821 INFO spawned: 'tailwind' with pid 29
+2025-01-07 09:58:57,090 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 09:58:57,091 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 09:58:58,093 INFO spawned: 'tailwind' with pid 30
+2025-01-07 09:58:58,363 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 09:58:59,366 INFO spawned: 'tailwind' with pid 31
+2025-01-07 09:59:00,632 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 09:59:00,633 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 09:59:01,635 INFO spawned: 'tailwind' with pid 32
+2025-01-07 09:59:02,906 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 09:59:02,906 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 09:59:03,909 INFO spawned: 'tailwind' with pid 33
+2025-01-07 09:59:04,181 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 09:59:05,184 INFO spawned: 'tailwind' with pid 34
+2025-01-07 09:59:05,453 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 09:59:07,459 INFO spawned: 'tailwind' with pid 35
+2025-01-07 09:59:08,731 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 09:59:08,731 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 09:59:09,734 INFO spawned: 'tailwind' with pid 36
+2025-01-07 09:59:11,003 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 09:59:11,004 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 09:59:12,006 INFO spawned: 'tailwind' with pid 37
+2025-01-07 09:59:13,277 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 09:59:13,278 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 09:59:14,286 INFO spawned: 'tailwind' with pid 38
+2025-01-07 09:59:14,551 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 09:59:15,554 INFO spawned: 'tailwind' with pid 39
+2025-01-07 09:59:16,825 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 09:59:16,826 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 09:59:17,828 INFO spawned: 'tailwind' with pid 40
+2025-01-07 09:59:19,096 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 09:59:19,097 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 09:59:20,099 INFO spawned: 'tailwind' with pid 41
+2025-01-07 09:59:20,370 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 09:59:21,373 INFO spawned: 'tailwind' with pid 42
+2025-01-07 09:59:22,643 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 09:59:22,644 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 09:59:23,646 INFO spawned: 'tailwind' with pid 43
+2025-01-07 09:59:24,919 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 09:59:24,920 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 09:59:25,922 INFO spawned: 'tailwind' with pid 44
+2025-01-07 09:59:27,191 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 09:59:27,192 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 09:59:28,194 INFO spawned: 'tailwind' with pid 45
+2025-01-07 09:59:28,471 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 09:59:29,473 INFO spawned: 'tailwind' with pid 46
+2025-01-07 09:59:30,753 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 09:59:30,754 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 09:59:31,756 INFO spawned: 'tailwind' with pid 47
+2025-01-07 09:59:32,028 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 09:59:33,030 INFO spawned: 'tailwind' with pid 48
+2025-01-07 09:59:34,302 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 09:59:34,303 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 09:59:35,305 INFO spawned: 'tailwind' with pid 49
+2025-01-07 09:59:36,585 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 09:59:36,586 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 09:59:37,588 INFO spawned: 'tailwind' with pid 50
+2025-01-07 09:59:37,873 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 09:59:38,875 INFO spawned: 'tailwind' with pid 51
+2025-01-07 09:59:39,156 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 09:59:41,161 INFO spawned: 'tailwind' with pid 52
+2025-01-07 09:59:42,446 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 09:59:42,447 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 09:59:43,449 INFO spawned: 'tailwind' with pid 53
+2025-01-07 09:59:44,734 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 09:59:44,735 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 09:59:45,737 INFO spawned: 'tailwind' with pid 54
+2025-01-07 09:59:45,997 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 09:59:46,999 INFO spawned: 'tailwind' with pid 55
+2025-01-07 09:59:47,241 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 09:59:49,246 INFO spawned: 'tailwind' with pid 56
+2025-01-07 09:59:50,482 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 09:59:50,483 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 09:59:51,485 INFO spawned: 'tailwind' with pid 57
+2025-01-07 09:59:52,776 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 09:59:52,777 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 09:59:53,780 INFO spawned: 'tailwind' with pid 58
+2025-01-07 09:59:55,054 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 09:59:55,055 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 09:59:56,058 INFO spawned: 'tailwind' with pid 59
+2025-01-07 09:59:56,340 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 09:59:57,343 INFO spawned: 'tailwind' with pid 60
+2025-01-07 09:59:58,613 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 09:59:58,613 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 09:59:59,617 INFO spawned: 'tailwind' with pid 61
+2025-01-07 09:59:59,883 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 10:00:00,885 INFO spawned: 'tailwind' with pid 62
+2025-01-07 10:00:01,157 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 10:00:03,162 INFO spawned: 'tailwind' with pid 63
+2025-01-07 10:00:04,430 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 10:00:04,430 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 10:00:05,433 INFO spawned: 'tailwind' with pid 64
+2025-01-07 10:00:05,700 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 10:00:06,703 INFO spawned: 'tailwind' with pid 65
+2025-01-07 10:00:06,981 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 10:00:08,986 INFO spawned: 'tailwind' with pid 66
+2025-01-07 10:00:10,259 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 10:00:10,260 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 10:00:11,262 INFO spawned: 'tailwind' with pid 67
+2025-01-07 10:00:11,529 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 10:00:12,532 INFO spawned: 'tailwind' with pid 68
+2025-01-07 10:00:13,801 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 10:00:13,802 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 10:00:14,804 INFO spawned: 'tailwind' with pid 69
+2025-01-07 10:00:16,074 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 10:00:16,074 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 10:00:17,076 INFO spawned: 'tailwind' with pid 70
+2025-01-07 10:00:17,369 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 10:00:18,373 INFO spawned: 'tailwind' with pid 71
+2025-01-07 10:00:19,642 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 10:00:19,643 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 10:00:20,646 INFO spawned: 'tailwind' with pid 72
+2025-01-07 10:00:20,915 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 10:00:21,917 INFO spawned: 'tailwind' with pid 73
+2025-01-07 10:00:23,187 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 10:00:23,187 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 10:00:24,190 INFO spawned: 'tailwind' with pid 74
+2025-01-07 10:00:25,473 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 10:00:25,474 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 10:00:26,476 INFO spawned: 'tailwind' with pid 75
+2025-01-07 10:00:27,748 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 10:00:27,749 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 10:00:28,751 INFO spawned: 'tailwind' with pid 76
+2025-01-07 10:00:30,032 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 10:00:30,033 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 10:00:31,035 INFO spawned: 'tailwind' with pid 77
+2025-01-07 10:00:32,304 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 10:00:32,305 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 10:00:33,307 INFO spawned: 'tailwind' with pid 78
+2025-01-07 10:00:34,581 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 10:00:34,582 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 10:00:35,585 INFO spawned: 'tailwind' with pid 79
+2025-01-07 10:00:36,856 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 10:00:36,856 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 10:00:37,859 INFO spawned: 'tailwind' with pid 80
+2025-01-07 10:00:39,144 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 10:00:39,145 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 10:00:40,147 INFO spawned: 'tailwind' with pid 81
+2025-01-07 10:00:41,416 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 10:00:41,417 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 10:00:42,419 INFO spawned: 'tailwind' with pid 82
+2025-01-07 10:00:42,686 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 10:00:43,688 INFO spawned: 'tailwind' with pid 83
+2025-01-07 10:00:43,959 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 10:00:45,964 INFO spawned: 'tailwind' with pid 84
+2025-01-07 10:00:47,240 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 10:00:47,240 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 10:00:48,244 INFO spawned: 'tailwind' with pid 85
+2025-01-07 10:00:48,520 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 10:00:49,522 INFO spawned: 'tailwind' with pid 86
+2025-01-07 10:00:49,794 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 10:00:51,798 INFO spawned: 'tailwind' with pid 87
+2025-01-07 10:00:53,069 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 10:00:53,070 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 10:00:54,072 INFO spawned: 'tailwind' with pid 88
+2025-01-07 10:00:55,363 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 10:00:55,364 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 10:00:56,366 INFO spawned: 'tailwind' with pid 89
+2025-01-07 10:00:56,640 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 10:00:57,643 INFO spawned: 'tailwind' with pid 90
+2025-01-07 10:00:58,919 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 10:00:58,920 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 10:00:59,922 INFO spawned: 'tailwind' with pid 91
+2025-01-07 10:01:01,192 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 10:01:01,192 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 10:01:02,195 INFO spawned: 'tailwind' with pid 92
+2025-01-07 10:01:03,465 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 10:01:03,466 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 10:01:04,468 INFO spawned: 'tailwind' with pid 93
+2025-01-07 10:01:05,740 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 10:01:05,741 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 10:01:06,743 INFO spawned: 'tailwind' with pid 94
+2025-01-07 10:01:07,031 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 10:01:08,033 INFO spawned: 'tailwind' with pid 95
+2025-01-07 10:01:09,313 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 10:01:09,314 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 10:01:10,316 INFO spawned: 'tailwind' with pid 96
+2025-01-07 10:01:11,598 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 10:01:11,598 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 10:01:12,601 INFO spawned: 'tailwind' with pid 97
+2025-01-07 10:01:13,874 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 10:01:13,875 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 10:01:14,877 INFO spawned: 'tailwind' with pid 98
+2025-01-07 10:01:16,152 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 10:01:16,153 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 10:01:17,155 INFO spawned: 'tailwind' with pid 99
+2025-01-07 10:01:18,433 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 10:01:18,434 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 10:01:19,436 INFO spawned: 'tailwind' with pid 100
+2025-01-07 10:01:20,752 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 10:01:20,753 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 10:01:21,755 INFO spawned: 'tailwind' with pid 101
+2025-01-07 10:01:23,048 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 10:01:23,049 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 10:01:24,051 INFO spawned: 'tailwind' with pid 102
+2025-01-07 10:01:25,327 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 10:01:25,328 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 10:01:26,329 INFO spawned: 'tailwind' with pid 103
+2025-01-07 10:01:27,601 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 10:01:27,602 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 10:01:28,604 INFO spawned: 'tailwind' with pid 104
+2025-01-07 10:01:28,911 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 10:01:29,914 INFO spawned: 'tailwind' with pid 105
+2025-01-07 10:01:30,185 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 10:01:32,189 INFO spawned: 'tailwind' with pid 106
+2025-01-07 10:01:33,465 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 10:01:33,465 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 10:01:34,468 INFO spawned: 'tailwind' with pid 107
+2025-01-07 10:01:35,740 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 10:01:35,741 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 10:01:36,743 INFO spawned: 'tailwind' with pid 108
+2025-01-07 10:01:38,020 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 10:01:38,021 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 10:01:39,023 INFO spawned: 'tailwind' with pid 109
+2025-01-07 10:01:39,290 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 10:01:40,292 INFO spawned: 'tailwind' with pid 110
+2025-01-07 10:01:40,559 WARN exited: tailwind (exit status 1; not expected)
+2025-01-07 10:01:43,168 INFO spawned: 'tailwind' with pid 115
+2025-01-07 10:01:44,417 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 12:14:46,690 WARN received SIGTERM indicating exit request
+2025-01-07 12:14:46,690 INFO waiting for tailwind, web to die
+2025-01-07 12:14:46,751 INFO stopped: web (exit status 0)
+2025-01-07 12:14:47,753 WARN stopped: tailwind (terminated by SIGTERM)
+2025-01-07 12:14:50,188 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-01-07 12:14:50,190 INFO supervisord started with pid 1
+2025-01-07 12:14:51,192 INFO spawned: 'tailwind' with pid 7
+2025-01-07 12:14:51,194 INFO spawned: 'web' with pid 8
+2025-01-07 12:14:52,195 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-07 12:14:52,196 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-08 08:19:53,281 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-01-08 08:19:53,284 INFO supervisord started with pid 1
+2025-01-08 08:19:54,293 INFO spawned: 'tailwind' with pid 7
+2025-01-08 08:19:54,294 INFO spawned: 'web' with pid 8
+2025-01-08 08:19:55,375 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-08 08:19:55,375 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-08 20:38:13,458 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-01-08 20:38:13,461 INFO supervisord started with pid 1
+2025-01-08 20:38:14,464 INFO spawned: 'tailwind' with pid 7
+2025-01-08 20:38:14,466 INFO spawned: 'web' with pid 8
+2025-01-08 20:38:15,546 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-08 20:38:15,546 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-09 10:53:16,979 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-01-09 10:53:16,983 INFO supervisord started with pid 1
+2025-01-09 10:53:17,993 INFO spawned: 'tailwind' with pid 7
+2025-01-09 10:53:17,996 INFO spawned: 'web' with pid 8
+2025-01-09 10:53:19,081 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-09 10:53:19,081 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-09 12:14:27,252 WARN received SIGTERM indicating exit request
+2025-01-09 12:14:27,252 INFO waiting for tailwind, web to die
+2025-01-09 12:14:27,302 INFO stopped: web (exit status 0)
+2025-01-09 12:14:28,304 WARN stopped: tailwind (terminated by SIGTERM)
+2025-01-09 12:14:31,335 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-01-09 12:14:31,336 INFO supervisord started with pid 1
+2025-01-09 12:14:32,338 INFO spawned: 'tailwind' with pid 7
+2025-01-09 12:14:32,340 INFO spawned: 'web' with pid 8
+2025-01-09 12:14:33,342 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-09 12:14:33,342 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-09 12:14:33,556 WARN exited: tailwind (exit status 1; not expected)
+2025-01-09 12:14:33,690 INFO spawned: 'tailwind' with pid 10
+2025-01-09 12:14:33,943 WARN exited: tailwind (exit status 1; not expected)
+2025-01-09 12:14:34,945 INFO spawned: 'tailwind' with pid 12
+2025-01-09 12:14:35,188 WARN exited: tailwind (exit status 1; not expected)
+2025-01-09 12:14:37,192 INFO spawned: 'tailwind' with pid 13
+2025-01-09 12:14:37,420 WARN exited: tailwind (exit status 1; not expected)
+2025-01-09 12:14:40,427 INFO spawned: 'tailwind' with pid 14
+2025-01-09 12:14:40,695 WARN exited: tailwind (exit status 1; not expected)
+2025-01-09 12:14:41,698 INFO gave up: tailwind entered FATAL state, too many start retries too quickly
+2025-01-09 12:49:46,904 WARN received SIGTERM indicating exit request
+2025-01-09 12:49:46,905 INFO waiting for web to die
+2025-01-09 12:49:46,958 INFO stopped: web (exit status 0)
+2025-01-09 12:49:49,793 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-01-09 12:49:49,795 INFO supervisord started with pid 1
+2025-01-09 12:49:50,797 INFO spawned: 'tailwind' with pid 7
+2025-01-09 12:49:50,799 INFO spawned: 'web' with pid 8
+2025-01-09 12:49:51,800 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-09 12:49:51,800 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-10 10:46:08,347 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-01-10 10:46:08,351 INFO supervisord started with pid 1
+2025-01-10 10:46:09,360 INFO spawned: 'tailwind' with pid 7
+2025-01-10 10:46:09,363 INFO spawned: 'web' with pid 8
+2025-01-10 10:46:10,604 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-10 10:46:10,604 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-10 12:36:27,574 WARN received SIGTERM indicating exit request
+2025-01-10 12:36:27,574 INFO waiting for tailwind, web to die
+2025-01-10 12:36:27,630 INFO stopped: web (exit status 0)
+2025-01-10 12:36:28,633 WARN stopped: tailwind (terminated by SIGTERM)
+2025-01-10 12:36:35,227 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-01-10 12:36:35,228 INFO supervisord started with pid 1
+2025-01-10 12:36:36,231 INFO spawned: 'tailwind' with pid 7
+2025-01-10 12:36:36,233 INFO spawned: 'web' with pid 8
+2025-01-10 12:36:37,233 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-10 12:36:37,233 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-12 12:12:57,972 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-01-12 12:12:57,975 INFO supervisord started with pid 1
+2025-01-12 12:12:58,978 INFO spawned: 'tailwind' with pid 7
+2025-01-12 12:12:58,980 INFO spawned: 'web' with pid 8
+2025-01-12 12:13:00,240 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-12 12:13:00,240 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-12 12:59:02,570 WARN received SIGTERM indicating exit request
+2025-01-12 12:59:02,570 INFO waiting for tailwind, web to die
+2025-01-12 12:59:02,627 INFO stopped: web (exit status 0)
+2025-01-12 12:59:03,629 WARN stopped: tailwind (terminated by SIGTERM)
+2025-01-12 13:27:53,088 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-01-12 13:27:53,091 INFO supervisord started with pid 1
+2025-01-12 13:27:54,094 INFO spawned: 'tailwind' with pid 7
+2025-01-12 13:27:54,097 INFO spawned: 'web' with pid 8
+2025-01-12 13:27:55,100 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-12 13:27:55,103 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-12 13:31:52,779 WARN received SIGTERM indicating exit request
+2025-01-12 13:31:52,780 INFO waiting for tailwind, web to die
+2025-01-12 13:31:52,830 INFO stopped: web (exit status 0)
+2025-01-12 13:31:53,834 WARN stopped: tailwind (terminated by SIGTERM)
+2025-01-12 13:31:57,308 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-01-12 13:31:57,310 INFO supervisord started with pid 1
+2025-01-12 13:31:58,313 INFO spawned: 'tailwind' with pid 7
+2025-01-12 13:31:58,315 INFO spawned: 'web' with pid 8
+2025-01-12 13:31:59,317 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-12 13:31:59,318 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-13 10:28:54,552 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-01-13 10:28:54,555 INFO supervisord started with pid 1
+2025-01-13 10:28:55,565 INFO spawned: 'tailwind' with pid 7
+2025-01-13 10:28:55,566 INFO spawned: 'web' with pid 8
+2025-01-13 10:28:56,639 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-13 10:28:56,639 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-13 11:16:49,276 WARN received SIGTERM indicating exit request
+2025-01-13 11:16:49,277 INFO waiting for tailwind, web to die
+2025-01-13 11:16:49,329 INFO stopped: web (exit status 0)
+2025-01-13 11:16:50,331 WARN stopped: tailwind (terminated by SIGTERM)
+2025-01-13 11:17:28,410 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-01-13 11:17:28,411 INFO supervisord started with pid 1
+2025-01-13 11:17:29,414 INFO spawned: 'tailwind' with pid 7
+2025-01-13 11:17:29,417 INFO spawned: 'web' with pid 8
+2025-01-13 11:17:30,419 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-13 11:17:30,422 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-13 12:07:22,136 WARN received SIGTERM indicating exit request
+2025-01-13 12:07:22,137 INFO waiting for tailwind, web to die
+2025-01-13 12:07:22,200 INFO stopped: web (exit status 0)
+2025-01-13 12:07:23,205 WARN stopped: tailwind (terminated by SIGTERM)
+2025-01-13 12:07:28,187 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-01-13 12:07:28,188 INFO supervisord started with pid 1
+2025-01-13 12:07:29,191 INFO spawned: 'tailwind' with pid 7
+2025-01-13 12:07:29,192 INFO spawned: 'web' with pid 8
+2025-01-13 12:07:30,193 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-13 12:07:30,194 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-13 12:07:30,572 WARN exited: tailwind (exit status 1; not expected)
+2025-01-13 12:07:30,573 INFO spawned: 'tailwind' with pid 11
+2025-01-13 12:07:30,807 WARN exited: tailwind (exit status 1; not expected)
+2025-01-13 12:07:31,809 INFO spawned: 'tailwind' with pid 12
+2025-01-13 12:07:32,052 WARN exited: tailwind (exit status 1; not expected)
+2025-01-13 12:07:34,057 INFO spawned: 'tailwind' with pid 13
+2025-01-13 12:07:34,288 WARN exited: tailwind (exit status 1; not expected)
+2025-01-13 12:07:37,295 INFO spawned: 'tailwind' with pid 14
+2025-01-13 12:07:37,562 WARN exited: tailwind (exit status 1; not expected)
+2025-01-13 12:07:38,564 INFO gave up: tailwind entered FATAL state, too many start retries too quickly
+2025-01-13 12:18:55,904 WARN received SIGTERM indicating exit request
+2025-01-13 12:18:55,905 INFO waiting for web to die
+2025-01-13 12:18:55,951 INFO stopped: web (exit status 0)
+2025-01-13 12:19:01,095 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-01-13 12:19:01,097 INFO supervisord started with pid 1
+2025-01-13 12:19:02,099 INFO spawned: 'tailwind' with pid 7
+2025-01-13 12:19:02,100 INFO spawned: 'web' with pid 8
+2025-01-13 12:19:03,101 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-13 12:19:03,101 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-13 12:19:03,484 WARN exited: tailwind (exit status 1; not expected)
+2025-01-13 12:19:03,485 INFO spawned: 'tailwind' with pid 11
+2025-01-13 12:19:03,733 WARN exited: tailwind (exit status 1; not expected)
+2025-01-13 12:19:04,736 INFO spawned: 'tailwind' with pid 12
+2025-01-13 12:19:04,988 WARN exited: tailwind (exit status 1; not expected)
+2025-01-13 12:19:06,992 INFO spawned: 'tailwind' with pid 13
+2025-01-13 12:19:07,238 WARN exited: tailwind (exit status 1; not expected)
+2025-01-13 12:19:10,245 INFO spawned: 'tailwind' with pid 14
+2025-01-13 12:19:10,514 WARN exited: tailwind (exit status 1; not expected)
+2025-01-13 12:19:11,515 INFO gave up: tailwind entered FATAL state, too many start retries too quickly
+2025-01-13 12:19:16,525 WARN received SIGTERM indicating exit request
+2025-01-13 12:19:16,525 INFO waiting for web to die
+2025-01-13 12:19:16,575 INFO stopped: web (exit status 0)
+2025-01-13 12:19:34,110 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-01-13 12:19:34,112 INFO supervisord started with pid 1
+2025-01-13 12:19:35,114 INFO spawned: 'tailwind' with pid 7
+2025-01-13 12:19:35,116 INFO spawned: 'web' with pid 8
+2025-01-13 12:19:36,117 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-13 12:19:36,117 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-13 12:19:36,459 WARN exited: tailwind (exit status 1; not expected)
+2025-01-13 12:19:36,460 INFO spawned: 'tailwind' with pid 11
+2025-01-13 12:19:36,691 WARN exited: tailwind (exit status 1; not expected)
+2025-01-13 12:19:37,693 INFO spawned: 'tailwind' with pid 12
+2025-01-13 12:19:37,932 WARN exited: tailwind (exit status 1; not expected)
+2025-01-13 12:19:39,936 INFO spawned: 'tailwind' with pid 13
+2025-01-13 12:19:40,178 WARN exited: tailwind (exit status 1; not expected)
+2025-01-13 12:19:43,185 INFO spawned: 'tailwind' with pid 14
+2025-01-13 12:19:43,455 WARN exited: tailwind (exit status 1; not expected)
+2025-01-13 12:19:44,457 INFO gave up: tailwind entered FATAL state, too many start retries too quickly
+2025-01-13 12:37:58,615 WARN received SIGTERM indicating exit request
+2025-01-13 12:37:58,615 INFO waiting for web to die
+2025-01-13 12:37:58,669 INFO stopped: web (exit status 0)
+2025-01-13 12:38:23,611 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-01-13 12:38:23,613 INFO supervisord started with pid 1
+2025-01-13 12:38:24,615 INFO spawned: 'tailwind' with pid 7
+2025-01-13 12:38:24,617 INFO spawned: 'web' with pid 8
+2025-01-13 12:38:25,618 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-13 12:38:25,618 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-13 12:38:25,981 WARN exited: tailwind (exit status 1; not expected)
+2025-01-13 12:38:25,982 INFO spawned: 'tailwind' with pid 11
+2025-01-13 12:38:26,228 WARN exited: tailwind (exit status 1; not expected)
+2025-01-13 12:38:27,230 INFO spawned: 'tailwind' with pid 12
+2025-01-13 12:38:27,465 WARN exited: tailwind (exit status 1; not expected)
+2025-01-13 12:38:29,470 INFO spawned: 'tailwind' with pid 19
+2025-01-13 12:38:29,701 WARN exited: tailwind (exit status 1; not expected)
+2025-01-13 12:38:32,708 INFO spawned: 'tailwind' with pid 20
+2025-01-13 12:38:32,972 WARN exited: tailwind (exit status 1; not expected)
+2025-01-13 12:38:33,973 INFO gave up: tailwind entered FATAL state, too many start retries too quickly
+2025-01-14 11:02:30,045 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-01-14 11:02:30,048 INFO supervisord started with pid 1
+2025-01-14 11:02:31,052 INFO spawned: 'tailwind' with pid 7
+2025-01-14 11:02:31,054 INFO spawned: 'web' with pid 8
+2025-01-14 11:02:32,130 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-14 11:02:32,131 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-14 11:04:19,398 WARN received SIGTERM indicating exit request
+2025-01-14 11:04:19,399 INFO waiting for tailwind, web to die
+2025-01-14 11:04:19,444 INFO stopped: web (exit status 0)
+2025-01-14 11:04:20,446 WARN stopped: tailwind (terminated by SIGTERM)
+2025-01-14 11:06:20,508 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-01-14 11:06:20,511 INFO supervisord started with pid 1
+2025-01-14 11:06:21,514 INFO spawned: 'tailwind' with pid 7
+2025-01-14 11:06:21,515 INFO spawned: 'web' with pid 8
+2025-01-14 11:06:22,516 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-14 11:06:22,516 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-15 08:29:27,239 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-01-15 08:29:27,242 INFO supervisord started with pid 1
+2025-01-15 08:29:28,246 INFO spawned: 'tailwind' with pid 7
+2025-01-15 08:29:28,248 INFO spawned: 'web' with pid 8
+2025-01-15 08:29:29,318 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-15 08:29:29,319 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-16 11:05:34,916 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-01-16 11:05:34,919 INFO supervisord started with pid 1
+2025-01-16 11:05:35,929 INFO spawned: 'tailwind' with pid 7
+2025-01-16 11:05:35,932 INFO spawned: 'web' with pid 8
+2025-01-16 11:05:36,945 INFO success: tailwind entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-16 11:05:36,946 INFO success: web entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-01-16 12:28:03,429 WARN received SIGTERM indicating exit request
+2025-01-16 12:28:03,429 INFO waiting for tailwind, web to die
+2025-01-16 12:28:03,487 INFO stopped: web (exit status 0)
+2025-01-16 12:28:04,490 WARN stopped: tailwind (terminated by SIGTERM)

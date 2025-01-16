@@ -1,0 +1,20 @@
+{% load widget_tweaks %}
+
+<h1 class="mb-2 prose prose-2xl text-white">
+    Import Transactions
+</h1>
+
+<form hx-encoding="multipart/form-data" hx-post="{% url 'import' %}">
+
+    <div class="mb-4">
+        <input type="file" name="file" class="file-input max-w-xs"
+               accept=".csv">
+    </div>
+
+    <div class="flex">
+        <button class="btn btn-success mr-2">Upload</button>
+        <form method="dialog">
+            <button class="btn btn-error">Cancel</button>
+        </form>
+    </div>
+</form>

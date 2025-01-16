@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+
+{% block head_title %}
+Transactions Charts
+{% endblock %}
+
+{% block content %}
+
+<h1 class="mt-4 mb-6 text-2xl leading-none tracking-tight text-white md:text-3xl lg:text-4xl flex items-center mb4">
+    {% heroicon_micro "list-bullet" class="w-6 h-6 me-2" %}
+
+    Transactions Charts
+</h1>
+
+<div class="relative overflow-x-auto text-white" id="transaction-block">
+    {% include 'partials/charts-container.html' %}
+
+</div>
+
+{% endblock %}
