@@ -1,0 +1,9 @@
+.idea
+
+.env.db
+.env.pgadmin
+.env.web
+
+supervisord.log
+supervisord.pid
+
