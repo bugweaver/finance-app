@@ -1,20 +1,35 @@
-<nav>
-    <div class="navbar bg-base-100 fixed">
-        <div class="flex-1">
-            <a href="{% url 'index' %}" class="btn btn-ghost text-xl">Finance Tracker</a>
-        </div>
-        <div class="flex-none">
-            <ul class="menu menu-horizontal px-1">
-                {% if user.is_authenticated %}
-                <li><a href="{% url 'transactions-list' %}" aria-current="page">My Transactions</a></li>
-                <li><a href="{% url 'transactions-charts' %}" aria-current="page">My Charts</a></li>
-                <li><a href="{% url 'account_logout' %}" aria-current="page">Logout</a></li>
-                {% else %}
-                <li><a href="{% url 'account_login' %}" aria-current="page">Login</a></li>
-                <li><a href="{% url 'account_signup' %}">Sign Up</a></li>
-                {% endif %}
-            </ul>
-        </div>
+<nav class="navbar bg-base-100 fixed">
+  <div class="navbar-start">
+    <a href="{% url 'index' %}" class="btn btn-ghost text-xl">Finance Tracker</a>
+  </div>
+  <div class="navbar-end">
+    <div class="dropdown dropdown-end md:hidden" id="mobile-menu-dropdown">
+      <div tabindex="0" role="button" class="btn btn-ghost" id="mobile-menu-button">
+        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="h-5 w-5">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5" />
+        </svg>
+      </div>
+      <ul tabindex="0" class="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52">
+          {% if user.is_authenticated %}
+          <li><a href="{% url 'transactions-list' %}" aria-current="page">My Transactions</a></li>
+          <li><a href="{% url 'transactions-charts' %}" aria-current="page">My Charts</a></li>
+          <li><a href="{% url 'account_logout' %}" aria-current="page">Logout</a></li>
+          {% else %}
+          <li><a href="{% url 'account_login' %}" aria-current="page">Login</a></li>
+          <li><a href="{% url 'account_signup' %}">Sign Up</a></li>
+          {% endif %}
+      </ul>
     </div>
+    <ul class="menu menu-horizontal px-1 hidden md:flex">
+        {% if user.is_authenticated %}
+        <li><a href="{% url 'transactions-list' %}" aria-current="page">My Transactions</a></li>
+        <li><a href="{% url 'transactions-charts' %}" aria-current="page">My Charts</a></li>
+        <li><a href="{% url 'account_logout' %}" aria-current="page">Logout</a></li>
+        {% else %}
+        <li><a href="{% url 'account_login' %}" aria-current="page">Login</a></li>
+        <li><a href="{% url 'account_signup' %}">Sign Up</a></li>
+        {% endif %}
+    </ul>
+  </div>
 </nav>
 
